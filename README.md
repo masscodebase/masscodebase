@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masscodebase
 - 👀 I’m interested in DevOps, Solutions Architecturing and Development
-- 🌱 I’m currently learning CI/CD Pipelines, AWS Architecturing
+- 🌱 I’m currently mastering CI/CD Pipelines, AWS Architecturing
 - 📫 How to reach me: goldrati.oratile@gmail.com
 
 <!---
